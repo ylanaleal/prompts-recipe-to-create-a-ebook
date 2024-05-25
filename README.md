@@ -26,7 +26,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonado.AI](https://app.leonardo.ai/)
-- [Canva](https://www.canva.com.br)
+- [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
 

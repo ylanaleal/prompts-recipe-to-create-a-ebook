@@ -7,7 +7,7 @@
 
 <p align="center">
 <img 
-    src="./assets/Preview ebook.png"
+    src="./assets/Preview_ebook.png"
     width="400"  
 />
 </p>
